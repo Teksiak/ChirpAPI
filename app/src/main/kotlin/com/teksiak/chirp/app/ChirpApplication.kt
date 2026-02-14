@@ -1,4 +1,4 @@
-package com.teksiak.chirp
+package com.teksiak.chirp.app
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
