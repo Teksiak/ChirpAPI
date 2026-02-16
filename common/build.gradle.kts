@@ -5,3 +5,7 @@ plugins {
 
 group = "com.teksiak.chirp"
 version = "0.0.1-SNAPSHOT"
+
+dependencies {
+    api(libs.jackson.module.kotlin)
+}
